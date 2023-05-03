@@ -29,5 +29,6 @@ Run the program with the command `python manage.py runserver`
 
 You should see a screen just like the one in the image below.
 
+![Screenshot 2023-05-03 232833](https://user-images.githubusercontent.com/71768696/236067945-ce114adb-ae68-403f-8792-f76e0de84001.png)
 
 Now you're ready to ROCK! :metal: :guitar:
